@@ -1,7 +1,1 @@
-data/
-Report.docx
-Report.pdf
-~.docx
-*.docx
-*.pdf
-~
+.DS_Store
